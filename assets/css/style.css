@@ -115,3 +115,19 @@ li a:hover {
     font-family: sans-serif;
     /* display: block; */
 }
+
+#tourzone {
+    width: 700px;
+    height: 600px;
+    margin: 75px 0 0 75px;
+    border: 1px solid black;
+    float: left;
+    /* position: relative; */
+}
+
+.tour {
+    width: 35%;
+    height: 280px;
+    object-fit: cover; /*Thanks to W3 for image fixing */
+    padding: 0 30px 30px;
+}

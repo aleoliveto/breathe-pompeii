@@ -117,7 +117,7 @@ li a:hover {
 }
 
 #tourzone {
-    width: 700px;
+    width: 760px;
     height: 600px;
     margin: 75px 0 0 75px;
     border: 1px solid black;
@@ -127,7 +127,14 @@ li a:hover {
 
 .tour {
     width: 35%;
-    height: 280px;
+    height: 250px;
     object-fit: cover; /*Thanks to W3 for image fixing */
-    padding: 0 30px 30px;
+    padding: 0 35px 35px 35px;
+}
+
+.tour2 {
+    width: 35%;
+    height: 250px;
+    object-fit: cover; /*Thanks to W3 for image fixing */
+    padding: 0 35px 35px 35px;
 }
